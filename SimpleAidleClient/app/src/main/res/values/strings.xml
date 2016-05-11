@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleAidleClient</string>
+    <string name="get_service_count">Get Service Count</string>
+</resources>
